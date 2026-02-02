@@ -24,12 +24,16 @@ This repository contains a collection of Android mobile application projects dev
 
 ## 📋 Projects List
 
-| S.No | Project Name                          | Description                                  | Status |
-|-----:|---------------------------------------|----------------------------------------------|--------|
-| 1    | Basic Mobile Application       | Demonstrates basic Android components  | Completed |
-| 2    | Check-in and Checkout (Basic Counter)     | Application to manage check-in and checkout           | Completed |
-| 3    | BMI Calculator               | Calculates BMI based on user input        | Completed |
-| 4    | Temperature Converter                    | Converts temperature from Celsius to Fahrenheit             | Completed |
+# Project List
+
+| S.No | Project Name                          | Description                                             | Status     |
+|------|--------------------------------------|---------------------------------------------------------|------------|
+| 1    | Basic Mobile Application              | Demonstrates basic Android components                   | Completed  |
+| 2    | Check-in and Checkout (Basic Counter) | Application to manage check-in and checkout             | Completed  |
+| 3    | Calculator                            | Performs basic arithmetic operations                    | Completed  |
+| 4    | BMI Calculator                        | Calculates BMI based on user input                      | Completed  |
+| 5    | Temperature Converter                 | Converts temperature from Celsius to Fahrenheit         | Completed  |
+
 
 ## 📌 Project Scope
 This repository includes basic to intermediate-level Android applications such as:

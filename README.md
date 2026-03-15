@@ -63,10 +63,10 @@ Build & run on an emulator or physical device
 
 Make sure USB debugging is enabled on physical devices.
 ```
+
+
+## 👤 Author
 ```bash
-
-👤 Author
-
 Name: Pugazhendhi B
 Email: pugazhendhi2k5@gmail.com / 231701042@rajalakshmi.edu.in
 
